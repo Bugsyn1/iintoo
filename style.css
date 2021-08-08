@@ -241,7 +241,8 @@ main {
     padding-left: 35px;
     cursor:default;
     display: inline-block;
-    color: var(--textselect)
+    color: var(--textselect);
+    
 }
 
 [type="radio"]+label::before {
@@ -253,6 +254,7 @@ main {
     height: 12px;
     border-radius: 100%;
     border: 1px solid var(--termstext);
+    margin-top: 5px;
 
 }
 
