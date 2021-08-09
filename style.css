@@ -268,7 +268,7 @@ main {
 .clue {
     width: 280px;
     height: 75px;
-    padding-left: 20px;
+    padding-left: 5px;
     opacity: 1;
     margin-top: 30px;
     color: var(--termstext);
